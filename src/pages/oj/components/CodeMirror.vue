@@ -75,7 +75,7 @@
       },
       language: {
         type: String,
-        default: 'C++'
+        default: 'Python3'
       },
       theme: {
         type: String,

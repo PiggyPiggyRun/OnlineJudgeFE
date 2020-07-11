@@ -230,7 +230,7 @@
         problemID: '',
         submitting: false,
         code: '',
-        language: 'C++',
+        language: 'Python3',
         theme: 'solarized',
         submissionId: '',
         submitted: false,
