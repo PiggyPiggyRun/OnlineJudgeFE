@@ -150,6 +150,7 @@ export const m = {
   NavStatus: '状态',
   Rank: '排名',
   ACM_Rank: 'ACM 排名',
+  AC_Rank: 'AC 排名',
   OI_Rank: 'OI 排名',
   About: '关于',
   Judger: '评分器',

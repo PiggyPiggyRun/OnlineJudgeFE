@@ -150,6 +150,7 @@ export const m = {
   NavStatus: 'Status',
   Rank: 'Rank',
   ACM_Rank: 'ACM Rank',
+  AC_Rank: 'AC Rank',
   OI_Rank: 'OI Rank',
   About: 'About',
   Judger: 'Judger',

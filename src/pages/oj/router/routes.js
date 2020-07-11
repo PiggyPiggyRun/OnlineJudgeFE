@@ -1,6 +1,7 @@
 // all routes here.
 import {
   About,
+  ACRank,
   ACMRank,
   Announcements,
   ApplyResetPassword,
@@ -124,6 +125,12 @@ export default [
     path: '/oi-rank',
     meta: {title: 'OI Rankings'},
     component: OIRank
+  },
+  {
+    name: 'ac-rank',
+    path: '/ac-rank',
+    meta: {title: 'AC Rankings'},
+    component: ACRank
   },
   {
     name: 'user-home',
